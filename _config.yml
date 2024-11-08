@@ -24,7 +24,7 @@ author:
   avatar           : "sonain.jpg"
   name             : "Sonain Jamil"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Erasmus Mundus Scholar in Computational Color and Spectral Imaging (COSI) at Norwegian University of Science and Technology (NTNU), Norway, University of Jean Monnet (UEF), France, and University of Eastern Finland (UEF), Finland."
   location         : "Joensuu, Finland"
   employer         : "EMJMD COSI"
   uri              : # URL
@@ -32,19 +32,19 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eKH08CEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7139-7389"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=sonain+jamil"
+  researchgate     : "https://www.researchgate.net/profile/Sonain-Jamil" # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sonainjameel"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
