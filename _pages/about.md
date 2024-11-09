@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+# <span style="color: #3498db;">Sonain Jamil</span>
+
 **<span style="color: #e74c3c;">About</span>**
 
 <span style="color: #2c3e50;">
@@ -21,7 +23,10 @@ My research areas include spectral imaging, color science, computer vision, and 
 
 **<span style="color: #e74c3c;">News</span>**
 
-- **<span style="color: #3498db;">November 2024:</span>** Preparing for a Master’s thesis on “Realistic 3D Scene Relighting” at UJM as part of the European PREMIERE project.
+- **<span style="color: #3498db;">November 2024:</span>** Preparing for a Master’s thesis on “Realistic 3D Scene Relighting” at UJM as part of the [European PREMIERE](https://premiere-project.eu/) project under supervision of [Dr. Damien Muselet](https://perso.univ-st-etienne.fr/muda8804/), [Professor Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/) and [Dr. Philippe Colantoni](https://manutech-sleight.com/about-us/the-governance/educational-committee/philippe-colantoni-261659.kjsp).
 - **<span style="color: #3498db;">October 2024:</span>** Received the Elsevier Outstanding Reviewer Award.
-- **<span style="color: #3498db;">July 2024:</span>** Completed an internship at Barbieri Electronic, Italy, specializing in spectral reconstruction and optimization.
+- **<span style="color: #3498db;">July 2024:</span>** Completed an internship at [Barbieri Electronic](https://www.barbierielectronic.com/), Italy, specializing in spectral reconstruction and optimization.
 - **<span style="color: #3498db;">August 2023:</span>** Joined the [EMJMD COSI program](https://cosi-master.eu/) at NTNU, Norway.
+
+
+
