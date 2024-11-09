@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="color: #3498db;">Sonain Jamil</span>
-
 **<span style="color: #e74c3c;">About</span>**
 
 <span style="color: #2c3e50;">
@@ -26,14 +24,4 @@ My research areas include spectral imaging, color science, computer vision, and 
 - **<span style="color: #3498db;">November 2024:</span>** Preparing for a Master’s thesis on “Realistic 3D Scene Relighting” at UJM as part of the European PREMIERE project.
 - **<span style="color: #3498db;">October 2024:</span>** Received the Elsevier Outstanding Reviewer Award.
 - **<span style="color: #3498db;">July 2024:</span>** Completed an internship at Barbieri Electronic, Italy, specializing in spectral reconstruction and optimization.
-- **<span style="color: #3498db;">August 2023:</span>** Joined the [EMJMD COSI program](https://www.emjmdcosi.eu/) at NTNU, Norway.
-
-**<span style="color: #e74c3c;">Publications</span>**
-
-- **2024:** *LightDepthMagic: An Advanced Deep Learning and Computer Vision Framework for Realistic 3D Object Embedding in RGB Images* - Digital Image Computing: Techniques & Applications (DICTA).
-- **2023:** *Learning-driven lossy image compression: A comprehensive survey* - ScienceDirect.
-- **2022:** *Distinguishing Malicious Drones Using Vision Transformer* - MDPI.
-- **2021:** *Bag of Features (BoF) Based Deep Learning Framework for Bleached Corals Detection* - MDPI.
-
----
-
+- **<span style="color: #3498db;">August 2023:</span>** Joined the [EMJMD COSI program](https://cosi-master.eu/) at NTNU, Norway.
