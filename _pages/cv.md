@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in Computational Color and Spectral Imaging (COSI), NTNU Norway, UJM France, UEF Finland, 2025 (expected)
+* M.S. in Electronics Engineering, Sejong University, Seoul, South Korea, 2023
+* B.S. in Telecommunication Engineering, University of Engineering and Technology (UET), Taxila, Pakistan, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June-July 2024: Summer Internship
+  * Barbieri Electronics
+  * Duties includes: Optimize spectral reflectance for backlit materials 
+  * Supervisor: Markus Barbieri and Peter Nussbaum
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2021-July 2023: Research Assistant
+  * Sejong University, Seoul, South Korea
+  * Duties included: Worked on image quality assessment, JPEG Snack, JPEG AI, JPEG AIC, Color Coordinate Transformation
+  * Supervisor: Oh-Jin Kwon
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019- August 2020: Research Assistant
+  * University of Engineering and Technology (UET), Taxila, Pakistan
+  * Duties included: Throughput and Energy Efficiency Maximization using Millimeter waves- Microwaves HetNets
+  * Supervisor: Mudassar Ali
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* Python
+* C/C++
+* R
+* Computer vision
+* Image processing
+  * Image ehancemnet
+  * Image compression
+  * Image quality assessment
+* Machine learning
+* Deep learnin
 
 Publications
 ======
