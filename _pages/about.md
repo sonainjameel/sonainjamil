@@ -18,7 +18,7 @@ I am a dedicated researcher specializing in computer vision, with expertise in m
 **<span style="color: #e74c3c;">Research Interests</span>**
 
 <span style="color: #2c3e50;">
-My research areas include spectral imaging, color science, computer vision, and explainable AI. I am passionate about creating reliable systems for visual perception that generalize across varying domains, with a focus on spectral illumination design, color vision accuracy, and optimization techniques such as Particle Swarm Optimization (PSO).
+My research areas include spectral imaging, color science, computer vision, and explainable AI. I am passionate about creating reliable systems for visual perception that generalize across varying domains, with a focus on 3D computer vision, Gaussian Splatting, and NeRF.
 </span>
 
 **<span style="color: #e74c3c;">News</span>**
