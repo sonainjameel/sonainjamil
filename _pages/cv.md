@@ -44,7 +44,7 @@ Skills
   * Image compression
   * Image quality assessment
 * Machine learning
-* Deep learnin
+* Deep learning
 
 Publications
 ======
