@@ -2,7 +2,7 @@
 title: "Overleaf Crash Course"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2021-overleaf-teaching
 venue: "Zoom"
 date: 2021-03-01
 location: "Remote"

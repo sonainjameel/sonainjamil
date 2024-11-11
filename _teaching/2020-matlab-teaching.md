@@ -2,7 +2,7 @@
 title: "MATLAB Crash Course"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2020-matlab
+permalink: /teaching/2020-matlab-teaching
 venue: "Zoom"
 date: 2020-12-01
 location: "Remote"
@@ -27,4 +27,3 @@ By the end of this workshop, participants were able to:
 - Develop foundational skills to pursue further MATLAB-based coursework or projects.
 
 This interactive session included hands-on exercises, enabling students to practice in real time, with the opportunity for live Q&A and personalized feedback.
-======
