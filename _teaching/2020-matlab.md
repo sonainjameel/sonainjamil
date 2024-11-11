@@ -10,7 +10,7 @@ location: "Remote"
 
 # MATLAB Crash Course
 
-This MATLAB Crash Course workshop, hosted for students of the Florida Institute of Technology, provided a comprehensive introduction to MATLAB essentials. Tailored for beginners and conducted remotely via Zoom, the workshop covered fundamental MATLAB operations, data manipulation, basic programming concepts, and visualization techniques.
+This MATLAB Crash Course workshop, hosted for students at the Florida Institute of Technology, provided a comprehensive introduction to MATLAB essentials. Tailored for beginners and conducted remotely via Zoom, the workshop covered fundamental MATLAB operations, data manipulation, basic programming concepts, and visualization techniques.
 
 ## Workshop Overview
 
