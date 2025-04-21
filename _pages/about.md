@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-!# Sonain Jamil
-
-!## About Me
 
 I am a dedicated researcher in computer vision with a strong foundation in deep learning, machine learning, and artificial intelligence.  
 Currently, I am pursuing the prestigious **Erasmus Mundus Joint Master’s Degree** in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/), spanning studies at:
