@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# Sonain Jamil
+!# Sonain Jamil
 
-## 🧠 About Me
+!## About Me
 
 I am a dedicated researcher in computer vision with a strong foundation in deep learning, machine learning, and artificial intelligence.  
 Currently, I am pursuing the prestigious **Erasmus Mundus Joint Master’s Degree** in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/), spanning studies at:
@@ -27,7 +27,8 @@ I aim to build robust, generalizable AI-driven systems for visual perception acr
 - Gaussian Splatting & Neural Radiance Fields (NeRF)  
 - Spectral and Multispectral Imaging  
 - Realistic Scene Relighting & Inverse Rendering  
-- Explainable & Generalizable AI for Vision
+- Human Motion Tracking
+- Gesture Analysis
 
 I am especially passionate about integrating physics-based models with deep learning for high-fidelity, photorealistic scene understanding.
 
