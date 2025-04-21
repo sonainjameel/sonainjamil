@@ -9,17 +9,26 @@ redirect_from:
 
 # <span style="color: #3498db;">Sonain Jamil</span>
 
-**<span style="color: #e74c3c;">About</span>**
-
+**<span style="color: #e74c3c;">About</span>**  
 <span style="color: #2c3e50;">
-I am a dedicated researcher specializing in computer vision, with expertise in machine learning, artificial intelligence, and deep learning. I am currently an Erasmus Mundus Joint Master’s degree student in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/), studying across the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.no/gjovik), [University Jean Monnet (UJM)](https://www.univ-st-etienne.fr/en/index.html), and the [University of Eastern Finland (UEF)](https://www.uef.fi/en). My work focuses on developing innovative solutions in image processing, spectral imaging, and AI-driven visual perception.
+I am a dedicated researcher in computer vision with a strong foundation in deep learning, machine learning, and artificial intelligence. Currently, I am pursuing the prestigious Erasmus Mundus Joint Master’s Degree in <a href="https://cosi-master.eu/" target="_blank" style="color: #2980b9; text-decoration: none;">Computational Color and Spectral Imaging (COSI)</a>, spanning studies at the <a href="https://www.ntnu.no/gjovik" target="_blank" style="color: #2980b9; text-decoration: none;">Norwegian University of Science and Technology (NTNU)</a>, <a href="https://www.univ-st-etienne.fr/en/index.html" target="_blank" style="color: #2980b9; text-decoration: none;">University Jean Monnet (UJM)</a>, and the <a href="https://www.uef.fi/en" target="_blank" style="color: #2980b9; text-decoration: none;">University of Eastern Finland (UEF)</a>.
+
+My work lies at the intersection of 3D vision, spectral imaging, and neural rendering, with a particular focus on real-time visual realism and physics-informed learning. I aim to build robust AI-driven systems for visual understanding that generalize across modalities and tasks.
 </span>
 
-**<span style="color: #e74c3c;">Research Interests</span>**
-
+**<span style="color: #e74c3c;">Research Interests</span>**  
 <span style="color: #2c3e50;">
-My research areas include spectral imaging, color science, computer vision, and explainable AI. I am passionate about creating reliable systems for visual perception that generalize across varying domains, with a focus on 3D computer vision, Gaussian Splatting, and NeRF.
+My research interests include:
+- 3D Computer Vision and Human Reconstruction  
+- Gaussian Splatting and Neural Radiance Fields (NeRF)  
+- Spectral and Multispectral Imaging  
+- Realistic Scene Relighting and Inverse Rendering  
+- Human Motion Tracking
+- Gesture Analysis
+
+I am especially interested in exploring high-fidelity human modeling, differentiable rendering pipelines, and self-supervised learning for 3D understanding.
 </span>
+
 
 <div style="border: 1px solid #ddd; border-left: 5px solid #e74c3c; padding: 20px; border-radius: 10px; background-color: #fdfdfd; font-family: Arial, sans-serif; line-height: 1.6; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
 
