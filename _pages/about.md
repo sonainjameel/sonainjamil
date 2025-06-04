@@ -20,11 +20,12 @@ I aim to build robust, generalizable AI-driven systems for visual perception acr
 
 ## 🔬 Research Interests
 
-- 3D Computer Vision & Human Mesh Recovery  
+- 3D Computer Vision
+- Human Mesh Recovery  
 - Gaussian Splatting & Neural Radiance Fields (NeRF)  
 - Spectral and Multispectral Imaging  
-- Realistic Scene Relighting & Inverse Rendering  
-- Human Motion Tracking
+- Realistic 3D Scene Relighting  
+- Image Quality Assessment
 - Gesture Analysis
 
 I am especially passionate about integrating physics-based models with deep learning for high-fidelity, photorealistic scene understanding.
