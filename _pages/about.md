@@ -35,7 +35,7 @@ I am especially passionate about integrating physics-based models with deep lear
   <h2 style="color: #e74c3c; margin-top: 0;">📰 News</h2>
 
   <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li><strong style="color: #3498db;">May 2025:</strong> Paper on SV-GaSRelight</em> accepted at <strong>ACIVS 2025</strong>.</li>
+    <li><strong style="color: #3498db;">May 2025:</strong> Paper on <em>SV-GaSRelight</em> accepted at <a href="https://www.acivs2025.com/" style="color: #2980b9; text-decoration: none;">ACIVS 2025</a>.</li>
     <li><strong style="color: #3498db;">March 2025:</strong> Two papers <em>(FaceGest and PoseSynViT)</em> accepted at <strong>CVPR 2025 Workshops</strong>.</li>
     <li><strong style="color: #3498db;">January 2025:</strong> Started M2 internship on <em>“Realistic 3D Scene Relighting”</em> at UJM as part of the 
       <a href="https://premiere-project.eu/" style="color: #2980b9; text-decoration: none;">European PREMIERE</a> project under the supervision of 
