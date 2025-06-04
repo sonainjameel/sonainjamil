@@ -1,7 +1,36 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI-Driven Land Management: Revolutionizing Urban Planning"
+excerpt: "A cutting-edge AI system for smarter cities<br/><img src='/images/hackathon.png'>"
 collection: portfolio
+permalink: /portfolio/ai-land-management/
+date: 2025-03-12
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Project Overview
+
+This project presents an innovative approach to urban planning by integrating state-of-the-art geospatial AI tools into land use analysis and development planning. It focuses on combining data-driven insights with scalable AI solutions to support sustainable urban growth and smarter city design.
+
+### Key Features
+
+- **Spectral Unmixing** for identifying and classifying complex land cover types.
+- **Object Detection** using [Qwen2.5](https://huggingface.co/Qwen/Qwen-2-5), applied to high-resolution satellite imagery.
+- **Visual Content Retrieval** through LLAMA Index, enabling semantic image search and classification.
+- **Generative Urban Planning** using Large Language Models (LLMs) to propose infrastructure layouts, zoning strategies, and public space designs.
+
+### Highlight
+
+Most recently, I co-developed this geospatial AI prototype during the [Sohjo Hackathon](https://businessjoensuu.fi/sohjo-hacks-hackathon), where we integrated multiple modalities into a unified platform for urban planning experts and local authorities.
+
+### Technologies Used
+
+- Python, PyTorch, Hugging Face Transformers
+- LLAMA Index, LangChain
+- Remote sensing datasets and spectral image processing
+- Jupyter notebooks and Streamlit for prototyping
+
+### Outcome
+
+The system was highly praised during the hackathon for its real-world applicability and innovative integration of AI with urban data. It demonstrates the potential of generative models in solving complex spatial problems and enhancing policy-making in urban contexts.
+
+
+
