@@ -10,6 +10,8 @@ date: 2024-12-24
 
 This project explores the linguistic cues that subconsciously influence how humans perceive text authored by either a human or an AI model such as ChatGPT. By leveraging eye-tracking data, we identify patterns in visual attention and correlate them with specific parts of speech in the text.
 
+> 📄 **[View Full Report (PDF)](https://raw.githubusercontent.com/sonainjameel/sonainjamil/main/files/Eye_tracking_project_group_A.pdf)**
+
 ---
 
 ### Methodology
