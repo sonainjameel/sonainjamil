@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Land Management: Revolutionizing Urban Planning"
-excerpt: "A cutting-edge AI system for smarter cities<br/><img src='/images/hackathon.png'>"
+excerpt: "A cutting-edge AI system for smarter cities<br/><img src='https://raw.githubusercontent.com/sonainjameel/sonainjamil/main/images/hackathon.png' style='max-width:100%; display:block; margin:auto;' />"
 collection: portfolio
 permalink: /portfolio/ai-land-management/
 date: 2025-03-12
