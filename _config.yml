@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "sonain.jpg"
   name             : "Sonain Jamil"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Erasmus Mundus Scholar in Computational Color and Spectral Imaging (COSI) at Norwegian University of Science and Technology (NTNU), Norway, University of Jean Monnet (UEF), France, and University of Eastern Finland (UEF), Finland."
-  location         : "Joensuu, Finland"
+  location         : "Saint-Étienne, France"
   employer         : "EMJMD COSI"
   uri              : # URL
   email            : "sonainjamil@ieee.org" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
